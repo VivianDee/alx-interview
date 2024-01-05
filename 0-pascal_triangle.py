@@ -1,5 +1,7 @@
-#!/usr/bin/env python3
-"""This script creates a Pascal Triangle"""
+#!/usr/bin/python3
+"""
+  This script creates a Pascal Triangle
+"""
 
 
 def pascal_triangle(n):
